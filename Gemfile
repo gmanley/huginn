@@ -53,7 +53,7 @@ gem 'ace-rails-ap', '~> 2.0.1'
 gem 'geokit', '~> 1.8.4'
 gem 'geokit-rails', '~> 2.0.1'
 
-gem 'kramdown', '~> 1.3.3'
+gem 'kramdown', '~> 2.3.0'
 gem 'faraday', '~> 0.9.0'
 gem 'faraday_middleware'
 gem 'typhoeus', '~> 0.6.3'
